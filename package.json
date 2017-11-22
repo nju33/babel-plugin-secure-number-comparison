@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-secure-number-comparison",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "repository": "nju33/babel-plugin-secure-number-comparison",
   "author": "nju33 <nju33.ki@gmail.com>",
